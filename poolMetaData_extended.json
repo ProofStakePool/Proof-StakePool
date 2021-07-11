@@ -1,0 +1,29 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "PROOFlogo64x64":"https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/PROOFlogo64x64.png",
+        "PROOFlogo": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/PROOFlogo.png",
+        "location": "Global",
+        "social": {
+            "twitter_handle": "ProofStakePool",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "I am an independent single stake pool operator who believes Cardano's groundbreaking technology and the cryptocurrency ADA. Since I am striving for true decentralization, I do not belong to any alliance that contradicts the idea of ​​decentralization.",
+            "server": "High Performance VPS Cloud servers based only on AMD EPYC CPUs Hosted in Germany and USA.",
+            "company": "Proof Stake Pool"
+        }
+
