@@ -1,6 +1,6 @@
 {
         "info": {
-        "PROOFlogo64x64":"https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/PROOFlogo64x64.png",
+        "PROOFlogo64x64": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/PROOFlogo64x64.png",
         "PROOFlogo": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/PROOFlogo.png",
         "location": "Global",
         "social": {
@@ -21,11 +21,11 @@
             "vat_id": ""
         },
         "about": {
-            "me": "I am an independent single stake pool operator who believes Cardano's groundbreaking technology and the cryptocurrency ADA. Since I am striving for true decentralization, I do not belong to any alliance that contradicts the idea of ​​decentralization.",
-            "server": "High Performance VPS Cloud servers based only on AMD EPYC CPUs Hosted in Germany and USA.",
+            "me": "I am an independent single stake pool operator who believes Cardano's groundbreaking technology and the cryptocurrency ADA. Since I am striving for true decentralization, I do not belong to any alliance that contradicts the idea of decentralization",
+            "server": "High Performance VPS Cloud servers based only on AMD EPYC CPUs Hosted in Germany and USA",
             "company": "Proof Stake Pool"
              }
         }
     }
-}
+
 
