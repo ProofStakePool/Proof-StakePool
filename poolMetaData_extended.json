@@ -1,7 +1,7 @@
 {
         "info": {
-        "PROOFlogo64x64": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/PROOFlogo64x64.png",
-        "PROOFlogo": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/PROOFlogo.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/PROOFlogo64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/ProofStakePool/Proof-StakePool/main/PROOFlogo.png",
         "location": "Global",
         "social": {
             "twitter_handle": "ProofStakePool",
