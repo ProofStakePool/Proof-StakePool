@@ -22,7 +22,10 @@
         },
         "about": {
             "me": "I'm Sergej an German based crypto enthusiast and Single Pool Operator with focuses on reliability and true decentralization",
-            "server": "4 x 6 vCPU • 16 GB RAM • 400GB SSD • 400 Mbit/s geo-located in Germany, USA and Singapore",
+            "server": "<p>Block Producer EU (Germany) 6 vCPU &bull; 16 GB RAM &bull; 400GB SSD &bull; 400 Mbit/s</p>
+<p>Relay Node 1 EU (Germany) 6 vCPU &bull; 16 GB RAM &bull; 400GB SSD &bull; 400 Mbit/s</p>
+<p>Relay Node 2 US (Central) 6 vCPU &bull; 16 GB RAM &bull; 400GB SSD &bull; 400 Mbit/s</p>
+<p>Relay Node 3 ASIA (Singapore) 6 vCPU &bull; 16 GB RAM &bull; 400GB SSD &bull; 400 Mbit/s</p>",
             "company": "ProofStakePool.com"
              }
         }
