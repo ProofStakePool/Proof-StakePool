@@ -13,12 +13,13 @@
             "github_handle": ""
         },
         "company": {
-            "name": "",
+            "name": "Proof Stake Pool",
             "addr": "",
             "city": "",
-            "country": "",
+            "country": "Germany",
             "company_id": "",
             "vat_id": ""
+            "Contact": "proofstakepool@icloud.com"
         },
         "about": {
             "me": "",
